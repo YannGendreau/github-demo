@@ -1,2 +1,2 @@
 # github-demo
-Un repository de test
+Un repository de test avec GitHub
